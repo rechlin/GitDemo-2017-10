@@ -2,7 +2,7 @@
 
 Git is great! Long live Git! (Well, until the next **Even Better** VCS!)
 
-On the other hand:
+> On the other hand:
 * You need a safe place off-site to store your files.
 * You want to share some of them with (some) friends.
 * You want to show off your work, especially if your next job is going to be better!

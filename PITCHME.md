@@ -1,8 +1,5 @@
 ## Git services: GitLab vs. GitHub
 
-### Git is great! Long live Git! 
-#### (Well, until the next **Even Better** VCS!)
-
 Presenter: **Rob Echlin**
 
 OCLUG, Ottawa, Ontario, Canada
@@ -10,17 +7,26 @@ OCLUG, Ottawa, Ontario, Canada
 2017-10-5
 
 ---
-## Git: What else do you need?
+### Git is great! Long live Git! 
+#### (Well, until the **Next-Even-Better** VCS!)
 
-* A safe place off-site to store your files.
-* Share (some of) them with (some) friends.
-* Show off your work, especially if your next job is going to be better!
-* Your employer pays you for code-writing, not to maintain  servers and software.
+Git: What else could you possibly need?
+
+---
+## I'm glad you asked!'
+
+* Safe storage off-site.
+* Private repos for private code.
+* Show off your work!
+* Your boss wants you coding, not fixing servers and backups.
 
 ## Git services to the rescue!
 
 ---
+### In the beginning
+## There was GitHub
 
-## Free Git services are great for many purposes!
-
-Central 
+* Free for Open Source
+* Expensive for private code
+* Few features
+* Little competition
